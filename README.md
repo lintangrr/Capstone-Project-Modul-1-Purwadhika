@@ -24,8 +24,8 @@ Data yang digunakan dalam project ini:
    
 ## Installations
 Untuk menjalankan program ini diperlukan beberapa module python. Silahkan ikuti instruksi :
-pip install tabulate
-pip install datetime
+1. pip install tabulate
+2. pip install datetime
 
    
 
